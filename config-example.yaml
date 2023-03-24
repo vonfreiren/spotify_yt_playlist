@@ -1,0 +1,23 @@
+path: '/Users/javier/Desktop/mp3'
+path_recursive : '/Users/javier/Desktop/mp3/**/*.mp3'
+
+
+#API and Project id for Google Images API
+
+# Google Images API
+api_google_images : 'api_google_images'
+cx_id_google_images : 'cx_id_google_images'
+
+#Discogs
+token_discogs : 'token_discogs'
+
+#Musicbrainz
+user_musicbrainz : 'user_musicbrainz'
+password_musicbrainz : 'password_musicbrainz'
+
+#Spotify
+spotify_client_id : 'spotify_client_id'
+spotify_secret : 'spotify_secret'
+
+#Genius
+token_genius : 'token_genius'
