@@ -18,6 +18,7 @@ password_musicbrainz : 'password_musicbrainz'
 #Spotify
 spotify_client_id : 'spotify_client_id'
 spotify_secret : 'spotify_secret'
+spotify_user_id : 'spotify_user_id'
 
 #Genius
 token_genius : 'token_genius'
